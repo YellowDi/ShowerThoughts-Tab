@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "显示浴室沉思语录",
+  "description": "显示浴室沉思语录的 Chrome 插件",
+  "version": "0.0.1",
+
+  "author": "YellowDi",
+
+  "chrome_url_overrides" : {
+    "newtab": "showerthoughts.html"
+  }
+}
